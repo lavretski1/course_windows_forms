@@ -1,0 +1,160 @@
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.exe
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.dll.config
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.deps.json
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.runtimeconfig.json
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.pdb
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.Form1.resources
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.csproj.CopyComplete
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\refint\ApplicationProject.dll
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.pdb
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ref\ApplicationProject.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.exe
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.dll.config
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.deps.json
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.runtimeconfig.json
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.pdb
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.csproj.CopyComplete
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\refint\ApplicationProject.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.pdb
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ref\ApplicationProject.dll
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.LoginForm.resources
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.MainWindow.resources
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.RegisterForm.resources
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.EditUsers.resources
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.EnterPasswordForm.resources
+C:\Users\Admin\Desktop\Папка\Курсова Вітя\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.RoomTypes.resources
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.exe
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.deps.json
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.runtimeconfig.json
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.pdb
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.csproj.AssemblyReference.cache
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.EditUsers.resources
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.EnterPasswordForm.resources
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.LoginForm.resources
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.MainWindow.resources
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.RegisterForm.resources
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.RoomTypes.resources
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.csproj.GenerateResource.cache
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.AssemblyInfoInputs.cache
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.AssemblyInfo.cs
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.csproj.CoreCompileInputs.cache
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.csproj.CopyComplete
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\refint\ApplicationProject.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.pdb
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ApplicationProject.genruntimeconfig.cache
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\obj\Debug\net6.0-windows\ref\ApplicationProject.dll
+C:\Users\lavre\Desktop\с\ApplicationProject\ApplicationProject\bin\Debug\net6.0-windows\ApplicationProject.dll.config
